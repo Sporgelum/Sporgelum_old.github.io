@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Marius Botos'
-description: 'PhD Student in Computational Biology.'
+description: 'MsC in Biotechnology & MsC in Computational Biology'
 
 # Images
 avatar: 'mavatar.jpg'
@@ -32,7 +32,7 @@ github-user: 'Sporgelum'
 # weibo: 'myweibo'
 # vk: 'myvk'
 # blog_url: 'myblog.blog.com'
-email: 'marius.botos"at"ana.unibe.com'
+email: 'marius.botos"at"unibe.com'
 # messenger: 'myfbchat'
 
 #social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
